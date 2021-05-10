@@ -5,7 +5,6 @@
   --main-color: #212121;
   --secondary-color: #757575;
   --title-text-color: #ffffff;
-  --
 }
 
 .common-lists {
@@ -14,7 +13,6 @@
 .common-links {
   text-decoration: none;
 }
-/* === Body === */
 body {
   font-family: var(--main-font);
   color: var(--main-color);
@@ -25,7 +23,7 @@ body {
 /* === Navigation === */
 /* === Header logo === */
 .header-logo-link {
-  font-family: var(--secondary-font)
+  font-family: var(--secondary-font);
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -214,4 +212,5 @@ body {
   font-size: 16px;
   line-height: 1.87;
   color: var(--secondary-color);
-/* === End Projects === */
+/* === End projects === */
+/* === End portfolio page === */
