@@ -106,10 +106,12 @@ body {
 
 /*=== Benefits company === */
 .benefits-title {
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1.14;
-  text-transform: uppercase;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 }
 .benefits-text {
   font-style: normal;
@@ -187,6 +189,7 @@ body {
 /* === Portfolio page === */
 /*=== Button-list ===  */
 .button-porfolio {
+  font-family: var(--main-font);
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -198,11 +201,12 @@ body {
   color: var(--title-text-color);
   background-color: var(--accent-color);
 }
-/*=== End button-list ===  */
+/*=== End button list ===  */
 
-/* === Projects === */
+/* === Projects list === */
 .projects-title {
   font-style: normal;
+  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
