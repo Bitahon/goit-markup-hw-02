@@ -23,7 +23,7 @@ body {
 /* === Navigation === */
 /* === Header logo === */
 .header-logo-link {
-  font-family: var(--secondary-font);
+  font-family: var(--main-font);
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
